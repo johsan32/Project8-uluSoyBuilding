@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,400;0,700;1,300;1,400&family=Chivo+Mono:wght@200;300;400;500;600;700;800&family=Crimson+Text:ital,wght@0,400;0,600;1,600&family=DynaPuff:wght@400;500;600;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100&family=Lobster&family=Poppins:ital,wght@0,100;0,200;0,900;1,100;1,200;1,400;1,500;1,600;1,700;1,800;1,900&family=Sedgwick+Ave+Display&display=swap');
+
+
+// font
+$font-h1:'Poppins', sans-serif;
+$font-paragraf: 'Lobster', cursive;
+$font-h2:'Sedgwick Ave Display', cursive;
+$font-span:'Alegreya Sans', sans-serif;
+
+
+// FONT
+$default-font-size: 1.6rem;
+
+
+// GRID
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
+$gutter-horizontal: 6rem;
+
+// color
+$color-theme:blue;
+$color-theme2:red;
+$color-white:white;
+$color-dark: black;
+$color-black: black;
+
+$color-theme-light-first:#AD00AB;
+$color-theme-light-second:#760C63;
+$color-theme-light-third:#f7f7f7;
+
+$color-theme-dark-first:#0F335C;
+$color-theme-dark-second:#470B4B;
+$color-theme-dark-third:#070335;
+
+
+
+$color-back:gray;
+$color-back2:rgb(50, 49, 49);
+
+$background-image1: radial-gradient( circle 610px at 5.2% 51.6%,  rgba(5,8,114,1) 0%, rgba(7,3,53,1) 97.5%);
+$background-image2: linear-gradient( 109.6deg,  rgba(209,0,116,1) 11.2%, rgba(110,44,107,1) 91.1%);
+$background-image3: radial-gradient( circle farthest-corner at 83.7% 4.3%,  rgba(173,0,171,1) 0%, rgba(15,51,92,1) 90% );
+$background-image4: linear-gradient( 109.6deg,  rgba(118,12,99,1) 11.2%, rgba(71,11,75,1) 98.6%);
